@@ -1,2 +1,2 @@
 console.log("hola git")
-console.log("bad commit")
+console.log("good commit")
